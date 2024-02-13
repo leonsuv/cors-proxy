@@ -20,7 +20,7 @@ HOST='0.0.0.0'
 PORT=8080
 ```
 ### Start:
-```node server.js```
+```node proxy.js```
 ### Proxy requests:
 Prepend the CORS-Anywhere URL to your target URL:
 ```http://localhost:8080/https://www.example.com```
